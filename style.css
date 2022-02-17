@@ -1,0 +1,22 @@
+
+/* This is called selectors- we are selecting each tag to use CCS in them */
+body{
+    color:red;
+}
+h1{
+    color:blue;
+}
+h2{
+    color:green;
+}
+p{
+    color:yellow;
+}
+/* for id use #id */
+#lib-header{
+    color:grey;
+}
+/* for class use .class */
+.para{
+    color: greenyellow;
+}
