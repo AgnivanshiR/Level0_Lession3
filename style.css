@@ -81,6 +81,12 @@ body{
     margin: auto;
     border-radius: 50%;
 }
+.hero .project-img{
+    max-width: 350px;
+    display: block;
+    margin: auto;
+    border-radius: 1rem;
+}
 .hero .hero-heading{
     font-size: 2rem;
     padding: 1rem;
@@ -118,6 +124,10 @@ body{
 }
 .footer ul{
     padding-inline-start: 0px;
+}
+.footer .footer-header{
+    font-weight: bold;
+    font-size: 1.2rem;
 }
 
 
